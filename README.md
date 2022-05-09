@@ -1,6 +1,6 @@
 # Mask RCNN Print_certain_Classes_and_Metrics
 Get certain Classes and Metrics for from pre-trained models on repo https://github.com/matterport/Mask_RCNN.git
-Here I have edit the official code to find the certain classes from """https://github.com/matterport/Mask_RCNN.git""" '\n'
+Here I have edit the official code to find the certain classes from """https://github.com/matterport/Mask_RCNN.git""" <br/>
 For demo purpose I have added certain classes for 'car', 'motorcycle', 'truck','bus'
 You can adjust the same with their Id's From class names:
 class_names = ['BG', 'person', 'bicycle', 'car', 'motorcycle', 'airplane',
